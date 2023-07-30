@@ -44,5 +44,5 @@ plt.tight_layout()
 
 plt.ylim(ymin=0)
 
-plt.savefig("/home/simon/Desktop/VIV/tower_corr", dpi=500)
+plt.savefig("tower_corr.pdf")
 plt.show()
