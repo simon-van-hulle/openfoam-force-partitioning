@@ -1,0 +1,10 @@
+#!/bin/bash
+
+mkdir OLD/
+mv postProcessing OLD/postProcessing_$(date +"%h%d_%Hh%M")
+
+echo "Cleaning up the current openFOAM case..."
+trash log
+trash processor*
+trash [1-9]*
+trash 0\.*

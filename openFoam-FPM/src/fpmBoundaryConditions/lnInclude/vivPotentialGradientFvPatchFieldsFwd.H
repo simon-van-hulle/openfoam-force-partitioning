@@ -1,0 +1,1 @@
+../fpmPotentialGradient/vivPotentialGradientFvPatchFieldsFwd.H

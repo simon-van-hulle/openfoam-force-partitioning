@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+
+
+echo -e "\nSyncing lam_current from the cluster"
+rsync -avh -e ssh $LR_CLUSTER:/home/svanhulle/VIV/lam-current $VIV/openFoam-VIV/lam-current/

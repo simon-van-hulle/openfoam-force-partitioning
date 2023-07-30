@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+
+
+echo -e "\nSyncing lam_current to the cluster"
+rsync -avh --exclude "processor*" "OLD/*" -e ssh $VIV/openFoam-VIV/fpm-fpm-current/ $LR_CLUSTER:/home/svanhulle/VIV/lam-current $@
+
+echo -e "\nSyncing src to the cluster"
+rsync -avh  -e ssh $VIV/openFoam-VIV/src/ $LR_CLUSTER:/home/svanhulle/VIV/src $@

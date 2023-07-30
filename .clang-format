@@ -1,0 +1,15 @@
+BasedOnStyle: LLVM
+Language: Cpp
+IndentWidth: 4
+UseTab: Never
+BreakBeforeBraces: Allman
+InsertTrailingCommas: None
+NamespaceIndentation: All
+SortIncludes: false
+PointerAlignment: Left
+ColumnLimit: 79
+MaxEmptyLinesToKeep: 2
+AllowShortIfStatementsOnASingleLine: false
+IndentCaseLabels: false
+AccessModifierOffset: -4
+FixNamespaceComments: false

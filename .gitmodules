@@ -1,0 +1,6 @@
+[submodule "docs/article-VIV"]
+	path = docs/article-VIV
+	url = https://git.overleaf.com/60827387a5cbeed2ff9b821f
+[submodule "docs/presentation-VIV"]
+	path = docs/presentation-VIV
+	url = https://git.overleaf.com/61bd9c0a14360f056c6af5cd
