@@ -7,7 +7,7 @@ Research Project about Vortex-induced Vibrations
 **Figure:** Artist impression of vortex-induced vibrations.
 
 # Introduction
-Will add a small introduction later.
+You can read the unpublished article on the implementation and results in ![Article](docs/SVanHulle-FPM-VIV.pdf)
 
 # Installation
 To use the code snippets in this explanation, first set a variable to the local directory where this repository is stored
