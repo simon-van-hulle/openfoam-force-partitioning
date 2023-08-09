@@ -1,13 +1,14 @@
 # HPB-VIV
 Research Project about Vortex-induced Vibrations
 
+# Introduction
+You can read the unpublished article on the implementation and results in ![Article](docs/SVanHulle-FPM-VIV.pdf)
+
 ![VIV Coloured](media/fpm-coloured.png)
 **Figure:** Vortex-shedding with circular cylinder.
 ![VIV Tower](media/fpm-tower.png)
 **Figure:** Artist impression of vortex-induced vibrations.
 
-# Introduction
-You can read the unpublished article on the implementation and results in ![Article](docs/SVanHulle-FPM-VIV.pdf)
 
 # Installation
 To use the code snippets in this explanation, first set a variable to the local directory where this repository is stored
