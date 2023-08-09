@@ -2,7 +2,7 @@
 Research Project about Vortex-induced Vibrations
 
 # Introduction
-You can read the unpublished article on the implementation and results in ![Article](docs/SVanHulle-FPM-VIV.pdf)
+You can read the unpublished article on the implementation and results in ![docs/SVanHulle-FPM-VIV.pdf](docs/SVanHulle-FPM-VIV.pdf)
 
 ![VIV Coloured](media/fpm-coloured.png)
 **Figure:** Vortex-shedding with circular cylinder.
